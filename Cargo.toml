@@ -1,0 +1,20 @@
+[package]
+name = "slicer"
+version = "0.1.0"
+authors = ["squishy_clouds"]
+description = "A utility that slices string slices into smaller string slices."
+license = "MIT/Apache-2.0"
+# homepage = ""
+# repository = ""
+# documentation = ""
+keywords = ["string", "slice", "parsing", "parser", "slicing"]
+categories = ["text-processing"]
+readme = "README.md"
+
+publish = true
+
+[lib]
+name = "slicer"
+path = "src/lib.rs"
+
+[dependencies]

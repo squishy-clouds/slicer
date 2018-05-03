@@ -8,7 +8,7 @@ programming languages or data formats.
 
 Basic usage:
 
-```
+```rust
 use slicer::AsSlicer;
 
 let path = "images/cat.jpeg";

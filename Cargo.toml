@@ -1,12 +1,12 @@
 [package]
 name = "slicer"
 version = "0.1.0"
-authors = ["squishy_clouds"]
+authors = ["squishy_clouds <https://squishyclouds0@gmail.com>"]
 description = "A utility that slices string slices into smaller string slices."
 license = "MIT/Apache-2.0"
-# homepage = ""
-# repository = ""
-# documentation = ""
+homepage = "https://github.com/squishy-clouds/slicer"
+repository = "https://github.com/squishy-clouds/slicer"
+documentation = "https://docs.rs/slicer"
 keywords = ["string", "slice", "parsing", "parser", "slicing"]
 categories = ["text-processing"]
 readme = "README.md"
